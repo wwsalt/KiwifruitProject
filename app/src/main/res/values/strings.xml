@@ -1,0 +1,31 @@
+<resources>
+
+    <string name="app_name">猕猴桃施肥系统</string>
+    <string name="hello">Hello World, MihoutaoActivity!</string>
+    <string name="welcome">欢迎使用猕猴桃施肥系统！</string>
+    <string name="jinru">进入</string>
+    <string name="dingwei">定位到当前位置</string>
+    <string name="fanhui">返回研究区</string>
+    <string name="zhouzhi">周至猕猴桃信息网</string>
+    <string name="nongye">西安农业信息网</string>
+    <string name="zzqh">周至行政区划图</string>
+    <string name="ssoil">研究区土壤类型图</string>
+    <string name="nresult">碱解氮插值结果图</string>
+    <string name="presult">有效磷插值结果图</string>
+    <string name="omresult">有机质插值结果图</string>
+    <string name="kresult">速效钾结果图</string>
+
+    <!-- Service URL's -->
+
+    <string name="identify_task_url_for_avghouseholdsize">http://services.arcgisonline.com/arcgis/rest/services/Demographics/USA_Diversity_Index/MapServer</string>
+
+    <!-- Attributes -->
+    <string name="NAME">Name</string>
+    <string name="LANDAREA">Land Area in Square Miles</string>
+    <string name="ID">ID</string>
+    <string name="ST_ABBREV">State Abbreviation</string>
+    <string name="TOTPOP_CY">2012 Total Population (Esri)</string>
+    <string name="button_household">Average Household > 3.5</string>
+    <string name="button_reset">Clear Graphics</string>
+
+</resources>

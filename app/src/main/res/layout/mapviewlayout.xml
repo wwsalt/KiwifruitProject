@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <com.esri.android.map.MapView
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:id="@+id/gismap"
+        mapoptions.MapType="Topo"
+        mapoptions.ZoomLevel="13"
+        mapoptions.center="34.3000, 108.003557"
+        />
+
+</LinearLayout>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#75f797</color>
+    <color name="colorPrimaryDark">#3c9b55</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="red">#FF0000</color>
+    <color name="lightgreen">#54FF9F</color>
+    <color name="green">#C1FFC1</color>
+    <color name="black">#0B050C</color>
+
+    <color name="tabBackColor">#75f797</color>
+    <color name="tabBackColor_press">#3c9b55</color>
+</resources>

@@ -1,0 +1,16 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/Action_getloc"
+        android:orderInCategory="100"
+        android:title="坐标查询"
+        android:showAsAction="never"/>
+    <item
+        android:id="@+id/Action_backto"
+        android:orderInCategory="100"
+        android:title="@string/fanhui"
+        android:showAsAction="never"/>
+    
+
+</menu>

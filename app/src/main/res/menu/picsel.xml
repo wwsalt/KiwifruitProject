@@ -1,0 +1,36 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/Action_mapzz"
+        android:orderInCategory="100"
+        android:title="@string/zzqh"
+        android:showAsAction="never"/>
+    <item
+        android:id="@+id/Action_soil"
+        android:orderInCategory="100"
+        android:title="@string/ssoil"
+        android:showAsAction="never"/>
+    <item
+        android:id="@+id/Action_om"
+        android:orderInCategory="100"
+        android:title="@string/omresult"
+        android:showAsAction="never"/>
+    <item
+        android:id="@+id/Action_n"
+        android:orderInCategory="100"
+        android:title="@string/nresult"
+        android:showAsAction="never"/>
+    <item
+        android:id="@+id/Action_p"
+        android:orderInCategory="100"
+        android:title="@string/presult"
+        android:showAsAction="never"/>
+    <item
+        android:id="@+id/Action_k"
+        android:orderInCategory="100"
+        android:title="@string/kresult"
+        android:showAsAction="never"/>
+
+
+</menu>
